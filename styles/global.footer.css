@@ -1,0 +1,16 @@
+.page-footer {
+    background-color: #222;
+    color: #ccc;
+    padding: 10px 0;
+}
+
+.footer-copyright {
+    color: #666;
+    padding: 10px 0;
+}
+
+.footer ul li {
+    font-size: 1.25rem;
+    font-weight: 300;
+    
+}

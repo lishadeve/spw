@@ -1,0 +1,20 @@
+.nav-link:hover {
+    color: var(--gold) !important;
+}
+
+.nav-link:active {
+    color: var(--gold) !important;
+}
+
+.nav-link:focus {
+    color: var(--gold) !important;
+}
+
+.navbar-toggler {
+    outline: none !important;
+    border: none !important;
+}
+
+.navbar-shadow {
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.1);
+}

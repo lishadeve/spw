@@ -1,0 +1,21 @@
+.jumbotron {
+    background: #6b8e23;
+    background-image: url("../assets/pexels-artem-beliaikin-893126.jpg");
+    background-blend-mode: soft-light;
+    background-size: cover;
+}
+
+ul li {
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+
+.services img {
+    height: 8rem;
+}
+
+.services .card p {
+    text-align: center;
+    padding: 10px;
+    height: 4rem;
+}
